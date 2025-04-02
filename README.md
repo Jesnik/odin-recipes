@@ -1,3 +1,5 @@
-This is the first project of the Odin HTML course
+This is the first project of the Odin Project online learning course
 
-It may be imperfect so beware!
+In this project I will aply all the knowledge acquired about Git and basic HTML code writing.
+
+It may not be perfect but will surely improve over time!
